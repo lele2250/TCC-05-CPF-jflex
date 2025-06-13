@@ -1,0 +1,18 @@
+CPF válido: 112.223.334-45
+CPF válido: 000.000.000-00
+Erro: CPF inválido -> 44444.44444.44
+Ignorado: l
+Ignorado: a
+Ignorado: a
+Erro: CPF inválido -> .
+Ignorado: a
+Ignorado: a
+Ignorado: l
+Erro: CPF inválido -> .
+Ignorado: a
+Ignorado: a
+Ignorado: l
+Erro: CPF inválido -> -
+Ignorado: l
+Ignorado: a
+Ignorado: a
